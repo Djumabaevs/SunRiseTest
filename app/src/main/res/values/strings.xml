@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dassler Pro</string>
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_not_found">Не найдена страница</string>
+    <string name="error_big_file">Слишком большой размер файла</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Skip">Пропустить</string>
+    <string name="Next">Далее</string>
+    <string name="slider_desc_1">Покупки стало делать еще выгоднее</string>
+    <string name="slider_desc_2">Собирайте купоны и получайте призы</string>
+    <string name="slider_desc_3">Лучшие призы только для Вас</string>
+    <string name="Continue">Продолжить</string>
+    <string name="Begin">Начнем</string>
+    <string name="Main">Главная</string>
+    <string name="Handbook">Справочник</string>
+    <string name="About_us">О нас</string>
+    <string name="Profile">Профиль</string>
+    <string name="Ok">Хорошо</string>
+    <string name="Cancel">Отмена</string>
+</resources>
